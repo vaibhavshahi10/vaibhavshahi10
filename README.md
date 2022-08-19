@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://vaibhavshahi10.io)
+[![MasterHead](https://thumbs.dreamstime.com/z/programming-coding-programmer-laptop-working-animation-104762817.jpg)](https://vaibhavshahi10.io)
 <h1 align="center">Hi 👋, I'm Vaibhav Shahi</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">

@@ -1,4 +1,4 @@
-[![MasterHead](https://media.onlinecoursebay.com/2019/03/01021131/1580646_003f_5.jpg)](https://vaibhavshahi10.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://vaibhavshahi10.io)
 <h1 align="center">Hi 👋, I'm Vaibhav Shahi</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">

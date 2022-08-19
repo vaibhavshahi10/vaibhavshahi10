@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java database connectivity(JDBC)**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavshahi.netlify.app/](https://eloquent-cupcake-12eb1b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vaibhavshahi.netlify.app/](https://vaibhavshahi.netlify.app/)
 
 - 💬 Ask me about **Java,mySql**
 

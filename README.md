@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **java database connectivity(JDBC)**
+- 🌱 I’m currently learning **Java Backend development**
 
 - 👨‍💻 All of my projects are available at [https://vaibhavshahi.netlify.app/](https://vaibhavshahi.netlify.app/)
 
-- 💬 Ask me about **Java,mySql**
+- 💬 Ask me about **Java,mySql,Spring,REST Api**
 
 - 📫 How to reach me **shahivaibhav10@gmail.com**
 

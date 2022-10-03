@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Backend development**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavshahi.netlify.app/](https://vaibhavshahi.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vaibhavshahi.netlify.app/)
 
 - 👨‍💻 [My Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
 

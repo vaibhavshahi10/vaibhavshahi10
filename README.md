@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhavshahi.netlify.app/](https://vaibhavshahi.netlify.app/)
 
+- 👨‍💻 [My Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
+
 - 💬 Ask me about **Java,mySql,Spring,REST Api**
 
 - 📫 How to reach me **shahivaibhav10@gmail.com**

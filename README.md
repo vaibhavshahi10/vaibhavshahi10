@@ -11,7 +11,6 @@ I enjoy solving backend engineering problems, improving system reliability, and 
 - 🧠 **Areas of interest:** Backend architecture, microservices, distributed systems, and cloud-native applications
 - 📍 **Location:** India
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
-- 🌐 **Portfolio:** [Visit My Portfolio](https://vaibhavshahi.netlify.app/)
 - 📫 **Email:** shahivaibhav10@gmail.com
 
 ---
@@ -88,7 +87,6 @@ Worked on a centralized reporting platform that consolidated legacy EMR reportin
 
 - **GitHub:** [@vaibhavshahi10](https://github.com/vaibhavshahi10)
 - **LinkedIn:** [Vaibhav Shahi](https://linkedin.com/in/vaibhav-shahi-35a069242/)
-- **Portfolio:** [My Portfolio](https://vaibhavshahi.netlify.app/)
 - **Resume:** [View Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
 - **Email:** shahivaibhav10@gmail.com
 

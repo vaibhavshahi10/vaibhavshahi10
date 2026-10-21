@@ -2,11 +2,11 @@
 
 ### Java Backend Engineer | Spring Boot | Microservices | Kafka | PostgreSQL | AWS | Kubernetes
 
-I'm a Java Backend Engineer with **3.2 years of professional experience** building backend services and working with distributed systems. My experience includes developing Spring Boot applications, REST APIs, microservices, and backend integrations.
+I'm a Java Backend Engineer with **3+ years of professional experience** building backend services and working with distributed systems. My experience includes developing Spring Boot applications, REST APIs, microservices, and backend integrations.
 
 I enjoy solving backend engineering problems, improving system reliability, and building scalable applications. I'm also exploring AI-powered software development through hands-on projects involving Spring Boot, React, Docker, and Kubernetes.
 
-- 💼 **Experience:** 3.2 years in Java backend development
+- 💼 **Experience:** 3+ years in Java backend development
 - 🚀 **Currently building:** Distributed Lovable Clone — an AI-powered application development platform
 - 🧠 **Areas of interest:** Backend architecture, microservices, distributed systems, and cloud-native applications
 - 📍 **Location:** India

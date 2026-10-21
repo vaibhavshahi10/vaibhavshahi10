@@ -1,35 +1,113 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://vaibhavshahi10.io)
-<h1 align="center">Hi 👋, I'm Vaibhav Shahi</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d">
+# Hi 👋, I'm Vaibhav Shahi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavshahi10&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavshahi10" /> </p>
+### Java Backend Engineer | Spring Boot | Microservices | Kafka | PostgreSQL | AWS | Kubernetes
 
-- 🔭 I’m currently working on **Spring Boot**
+I'm a Java Backend Engineer with **3.2 years of professional experience** building backend services and working with distributed systems. My experience includes developing Spring Boot applications, REST APIs, microservices, and backend integrations.
 
-- 🌱 I’m currently learning **Java Backend development**
+I enjoy solving backend engineering problems, improving system reliability, and building scalable applications. I'm also exploring AI-powered software development through hands-on projects involving Spring Boot, React, Docker, and Kubernetes.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vaibhavshahi.netlify.app/)
+- 💼 **Experience:** 3.2 years in Java backend development
+- 🚀 **Currently building:** Distributed Lovable Clone — an AI-powered application development platform
+- 🧠 **Areas of interest:** Backend architecture, microservices, distributed systems, and cloud-native applications
+- 📍 **Location:** India
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://vaibhavshahi.netlify.app/)
+- 📫 **Email:** shahivaibhav10@gmail.com
 
-- 👨‍💻 [My Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
+---
 
-- 💬 Ask me about **Java,mySql,Spring,REST Api**
+## 🛠️ Technical Skills
 
-- 📫 How to reach me **shahivaibhav10@gmail.com**
+### Languages
+Java, SQL
 
-- ⚡ Fun fact **I am funny**
+### Backend Development
+Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, Microservices
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhav-shahi-35a069242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-shahi-35a069242/" height="30" width="40" /></a>
+### Messaging and Distributed Systems
+Apache Kafka, Event-Driven Architecture
+
+### Databases and Caching
+PostgreSQL, MySQL, Redis
+
+### Cloud and DevOps
+AWS, Docker, Kubernetes, Google Kubernetes Engine (GKE), GitHub Actions, CI/CD
+
+### Development Tools
+Maven, Git, GitHub, IntelliJ IDEA, Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Distributed Lovable Clone — AI-Powered Application Development Platform
+
+A distributed application development platform inspired by Lovable, combining a React frontend with a microservices-based Java backend.
+
+**Key technologies:** Java 21, Spring Boot 4.x, Spring Cloud Gateway, React, TypeScript, Docker, Kubernetes, GKE
+
+**Highlights:**
+- Built a microservices-based backend organized into account, workspace, intelligence, configuration, and service-discovery modules.
+- Developed backend services using Java and Spring Boot.
+- Integrated a React and TypeScript frontend with backend APIs.
+- Containerized applications using Docker.
+- Deployed frontend and backend workloads as separate Kubernetes Deployments within a Google Kubernetes Engine cluster.
+- Maintained Kubernetes manifests and GitHub Actions workflows for deployment and automation.
+
+**Repositories:**
+- [Backend Repository](https://github.com/vaibhavshahi10/Distributed-Lovable-Clone)
+- [Frontend Repository](https://github.com/vaibhavshahi10/Distributed-Lovable-Clone-Frontend)
+
+### 2. M2P Reports Platform
+
+Worked on a centralized reporting platform that consolidated legacy EMR reporting into a shared reporting solution.
+
+**Highlights:**
+- Contributed to consolidating reporting capabilities into a centralized platform.
+- Worked on backend services and reporting-related integrations.
+- Helped reduce infrastructure costs by approximately **40%** through reporting platform consolidation.
+
+**Technologies:** Java, Spring Boot, REST APIs, PostgreSQL, and related backend technologies.
+
+---
+
+## 💼 Professional Experience
+
+**Java Backend Engineer — M2P Fintech Solutions Pvt. Ltd.**
+
+*November 2022 – January 2026*
+
+- Developed and maintained backend applications using Java and Spring Boot.
+- Worked with REST APIs, microservices, and database integrations.
+- Contributed to backend services and centralized reporting capabilities.
+- Worked with technologies and infrastructure used in distributed backend systems.
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@vaibhavshahi10](https://github.com/vaibhavshahi10)
+- **LinkedIn:** [Vaibhav Shahi](https://linkedin.com/in/vaibhav-shahi-35a069242/)
+- **Portfolio:** [My Portfolio](https://vaibhavshahi.netlify.app/)
+- **Resume:** [View Resume](https://drive.google.com/file/d/1abW-XMLSN3ypfTUXelNQZL2aSoAmnDc5/view)
+- **Email:** shahivaibhav10@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavshahi10&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshahi10&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavshahi10&show_icons=true&locale=en&layout=compact" alt="vaibhavshahi10" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshahi10&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavshahi10&show_icons=true&locale=en" alt="vaibhavshahi10" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshahi10&" alt="vaibhavshahi10" /></p>
-
+*Building reliable backend systems, exploring distributed architectures, and continuously improving as a software engineer.*
